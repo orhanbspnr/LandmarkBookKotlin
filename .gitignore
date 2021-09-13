@@ -1,0 +1,10 @@
+package com.orhan.retrofitkotlin1
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import com.orhan.retrofitkotlin1.model.CryptoModel
+
+class MainActivity2 : AppCompatActivity() {
+    private val BASE_
+# Project exclude paths
+/.gradle/
